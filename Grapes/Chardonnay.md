@@ -100,7 +100,7 @@
 
 ## 三类
 
-- [[Classification#Aroma 三类 三类]]
+- [[Classification#Aroma 三类 三类|三类]]
 	- 榛子
 	- 蘑菇味
 
@@ -158,7 +158,7 @@
 
 #### [[Bourgogne#Cote de Beaune - South|Cote de Beaune]]
 
-##### [[Bourgogne#Meursault AOC|Meursault AOC]] & [[Bourgogne#Meursault AOC|Meursault AOC]]
+##### [[Bourgogne#Meursault AOC|Meursault AOC]] & [[Bourgogne#Puligny-Montrachet AOC|Puligny-Montrachet AOC]]
 
 ###### 特点
 

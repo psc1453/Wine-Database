@@ -1,3 +1,7 @@
+# 特征
+
+唯一喜凉的黑葡萄品种。
+
 # 品种
 
 [[Classification#黑葡萄|黑葡萄]]
@@ -86,7 +90,7 @@ NULL
 
 ##### 特点
 
-- 酸度[[Classification#酸度#低|低]]
+- 单宁[[Classification#单宁#低|低]]
 - 风味浓度不足以陈年，[[Classification#尽早饮用|尽早饮用]]
 - 也可能价格高昂
 
@@ -144,7 +148,25 @@ NULL
 
 #### [[California#Santa Barbara|Santa Barbara]]
 
-## Chile
+### [[Oregon]]
+
+#### 特点
+
+- 很好，特好
+- 可陈年
+
+#### 风味
+
+- [[Classification#Aroma 红色水果 红色水果|红色水果]]
+- [[Classification#Aroma 橡木 橡木|橡木]]
+	- 烟熏
+	- 丁香
+	- 香草
+- 三级
+	- 泥土
+	- 蘑菇
+
+## [[Chile]]
 
 ### [[Chile#Casablanca Vally|Casablanca Valley]]
 
@@ -152,7 +174,7 @@ NULL
 
 - 物超所值
 
-## South Africa
+## [[South Africa]]
 
 ### [[South Africa#Walker Bay|Walker Bay]]
 
@@ -160,7 +182,7 @@ NULL
 
 - 有好和特好的产出
 
-## Australia
+## [[Australia]]
 
 ### 风味
 
@@ -168,9 +190,11 @@ NULL
 
 ### [[Australia#Yarra Valley|Yarra Valley]]
 
+#Forget
+
 ### [[Australia#Mornington Peninsula|Mornington Peninsula]]
 
-## New Zealand
+## [[New Zealand]]
 
 ## [[New Zealand#Martinborough|Martinborough]]
 

@@ -1,3 +1,9 @@
+# 特征
+
+- 品丽珠（Cabernet Franc）和 [[Sauvignon Blanc]] 杂交。
+- 三高（酸度，单宁，酒精度）。
+- 青椒，薄荷，黑醋栗。
+
 # 品种
 
 [[Classification#黑葡萄|黑葡萄]]

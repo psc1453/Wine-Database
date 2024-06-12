@@ -1,3 +1,8 @@
+# 特征
+
+- 和 [[Cabernet Sauvignon]]，[[Merlot]] 是亲戚
+- 青圆椒，番茄叶
+
 # 品种
 
 [[Classification#黑葡萄|黑葡萄]]
