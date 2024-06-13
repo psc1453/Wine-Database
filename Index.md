@@ -6,6 +6,11 @@
 - [[Manufacture]]
 - [[Taste]]
 
+# 特殊类型
+
+- [[Sparkling]]
+- [[Fortified]]
+
 # 品种
 
 ## 黑葡萄
