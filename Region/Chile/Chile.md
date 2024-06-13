@@ -33,7 +33,7 @@
 
 ## Maipo Valley & Colchagua Valley
 
-### 气候
+## 气候
 
 从东部安第斯山脉山脚到西部海岸山脉，谷底平坦，土壤肥沃。
 

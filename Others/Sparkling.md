@@ -22,7 +22,7 @@
 2. 转瓶（Riddling）到倒置垂直位置，要缓慢，可以手动也可以转瓶机（Gyropalette）
 3. 吐泥（Disgorgement），冰冻瓶颈，喷出
 4. 加糖（Dosage），加入糖和葡萄酒混合的调味液（Liqueur d'expedition）
-	1. 天然型（Btut）加糖很少，呈现干型
+	1. 天然型（Brut）加糖很少，呈现干型
 	2. 半干型（Demi-Sec）有较多糖分
 5. 重新封瓶
 

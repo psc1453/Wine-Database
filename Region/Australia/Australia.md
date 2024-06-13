@@ -48,7 +48,7 @@
 
 [[Classification#温暖|温暖]]，夏季非常炎热，但多云天气且有海风，可以缓慢成熟。
 
-### 品种
+## 品种
 
 - [[Semillion]]（[[Classification#干|干]]，[[Classification#单一品种|单一品种]]）
 - [[Syrah]]
@@ -59,7 +59,7 @@
 
 [[Classification#温暖|温暖]]
 
-### 品种
+## 品种
 
 - [[Semillion]]（[[Classification#干|干]]，[[Classification#单一品种|单一品种]]）
 - [[Syrah]]（老藤）
@@ -117,6 +117,6 @@
 
 [[Classification#温暖|温暖]]
 
-### 品种
+## 品种
 
 - [[Grenache]]（老藤）
