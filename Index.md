@@ -2,9 +2,11 @@
 
 - [[Aroma]]
 - [[Classification]]
+- [[Italian Grapes]]
 - [[Label]]
 - [[Manufacture]]
 - [[Taste]]
+- [[Unique Features]]
 
 # 特殊类型
 

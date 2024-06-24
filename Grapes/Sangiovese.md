@@ -77,6 +77,7 @@
 - 口感简单
 - 低廉
 - 不适合陈年，[[Classification#尽早饮用|尽早饮用]]
+- 会有少量[[Classification#混酿]]
 
 ### [[Italy#Chianti Classico DOCG|Chianti Classico DOCG]]
 
